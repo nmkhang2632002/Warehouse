@@ -1,1 +1,1 @@
-var warehouseList = ["Small", "Medium", "Large", "MyWarehouse"];
+var warehouseList = ["Small", "Medium", "Large", "Demo"];
